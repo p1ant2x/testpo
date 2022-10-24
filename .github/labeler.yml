@@ -1,2 +1,4 @@
-newtest:
+testt:
 - src/**
+EvilLabel:
+- *
